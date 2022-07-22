@@ -1,0 +1,15 @@
+@media (max-width: 1200px) {
+  img{
+    height: 300px;
+  }
+}
+@media (max-width: 980px) {
+  img{
+    height: 350px;
+  }
+}
+@media (max-width: 680px) {
+  img{
+    height: 100%;
+  }
+}
